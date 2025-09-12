@@ -20,7 +20,9 @@ The dataset used in this project was sourced from kaggle [download here](https:/
  **Dataset Overview**
 
 •	Rows: 3,000
+
 •	Columns: 25
+
 •	Scope: Covers technical, economic, and usage details of electric vehicles across regions and brands
 
  **Project Objectives**
@@ -65,5 +67,22 @@ Page 2 – Performance, Energy & Usage Analysis
 
 <img width="1202" height="671" alt="Page 2 EVs" src="https://github.com/user-attachments/assets/89e21aa1-856d-42dd-8fff-c9ed76acf7fe" />
 
+
+
+Key Insights
+1.	Maintenance & Insurance Costs:
+o	Asia and Australia recorded the highest maintenance costs, while insurance costs fluctuated year-to-year but showed an upward trend.
+
+2.	Battery & Range Performance:
+o	The average battery capacity was ~75 kWh, supporting ranges above 1 million km across the dataset.
+o	Battery health averaged 85%, reflecting good long-term durability.
+
+3.	Environmental Impact:
+o	EVs saved 45,000+ tons of CO₂, with Asia and North America leading in environmental benefits.
+o	Usage type analysis showed all categories (Personal, Fleet, Commercial) contribute significantly to emission savings.
+
+4.	Resale Market:
+o	Brands like Tesla, Ford, and BMW hold the highest resale values.
+o	Regionally, North America and Asia dominate the resale market.
 
 
