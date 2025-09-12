@@ -14,7 +14,7 @@ This project analysis a dataset containing performance, cost, and environmental 
 •	 Resale values by brand and region
 •	 Performance indicators such as acceleration and max speed
 
-The dataset used in this project was sourced from kaggle[download here](https://www.kaggle.com/datasets/khushikyad001/electric-vehicle-analytics-dataset)
+The dataset used in this project was sourced from kaggle [download here](https://www.kaggle.com/datasets/khushikyad001/electric-vehicle-analytics-dataset)
 
 
  **Dataset Overview**
@@ -48,6 +48,7 @@ This dataset was chosen because it provides a holistic view of electric vehicles
 Dashboard Overview
 Page 1 – Cost, Capacity & Regional Insights
 
+<img width="1211" height="672" alt="Page 1 EVs" src="https://github.com/user-attachments/assets/05aa153b-3a9b-4485-b715-94959e8d7eb3" />
 
 
 
