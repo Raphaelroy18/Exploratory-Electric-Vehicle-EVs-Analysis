@@ -52,5 +52,18 @@ Page 1 – Cost, Capacity & Regional Insights
 
 
 
+•	KPIs: Total Vehicles, Avg Battery Capacity, Avg Range, Avg Resale Value, Total CO₂ Saved.
+•	Maintenance Cost by Region: Highlights cost variations across North America, Europe, Asia, and Australia.
+•	Insurance Cost by Year: Trendline showing fluctuations in insurance expenses.
+•	Maintenance Cost by Usage Type: Breakdown into Personal, Fleet, and Commercial vehicles.
+•	Battery Capacity vs Range vs Battery Health: Performance analysis scatter.
+•	CO₂ Saved by Region: Regional contribution toward emission reductions.
+•	Resale Value by Vehicle Make: Comparison across Tesla, BMW, Ford, Mercedes, etc.
+
+
+Page 2 – Performance, Energy & Usage Analysis
+
+<img width="1202" height="671" alt="Page 2 EVs" src="https://github.com/user-attachments/assets/89e21aa1-856d-42dd-8fff-c9ed76acf7fe" />
+
 
 
