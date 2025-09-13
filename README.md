@@ -43,11 +43,14 @@ This dataset was chosen because it provides a holistic view of electric vehicles
 •	Regional & usage diversity (personal, commercial, fleet vehicles across multiple continents).
 
 🛠 **Tools Used**
+
 •	Microsoft Excel → Data cleaning, handling missing values, and initial formatting.
+
 •	SQL → Querying large datasets, filtering, and aggregating records for analysis.
+
 •	Power BI → Building interactive dashboards with KPIs, maps, charts, and advanced visuals.
 
-Dashboard Overview
+**Dashboard Overview**
 Page 1 – Cost, Capacity & Regional Insights
 
 <img width="1211" height="672" alt="Page 1 EVs" src="https://github.com/user-attachments/assets/05aa153b-3a9b-4485-b715-94959e8d7eb3" />
@@ -93,7 +96,7 @@ Page 2 – Performance, Energy & Usage Analysis
 
 
 
-Key Insights
+**Key Insights**
 1.	Maintenance & Insurance Costs:
 o	Asia and Australia recorded the highest maintenance costs, while insurance costs fluctuated year-to-year but showed an upward trend.
 
@@ -114,7 +117,8 @@ o	Average energy consumption stood at 18.6 kWh per 100 km.
 o	Scatter plots confirmed that faster cars tend to consume slightly more energy, especially SUVs and sports sedans.
 
 
-Recommendations
+**Recommendations**
+
 1.	Manufacturers should optimize EVs for both speed and efficiency, as faster cars show higher energy consumption.
    
 2.	Fleet and Commercial operators should invest more in EVs since they balance cost savings and CO₂ reductions.
@@ -126,7 +130,8 @@ Recommendations
 5.	Insurance providers could introduce EV-specific packages to stabilize rising insurance costs.
 
 
-Conclusion
+**Conclusion**
+
 This analysis demonstrates the value of EV analytics in guiding decisions for manufacturers, governments, and consumers. By leveraging data across regions, brands, and usage types, I highlight opportunities for improving efficiency, affordability, and sustainability in the EV ecosystem.
 The use of Excel (cleaning), SQL (querying), and Power BI (visuals) allowed me to create a holistic, interactive view of the EV industry. The dashboards serve as a practical tool for stakeholders to explore EV adoption trends and make data-driven decisions.
 
