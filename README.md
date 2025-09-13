@@ -55,11 +55,17 @@ Page 1 – Cost, Capacity & Regional Insights
 
 
 •	KPIs: Total Vehicles, Avg Battery Capacity, Avg Range, Avg Resale Value, Total CO₂ Saved.
+
 •	Maintenance Cost by Region: Highlights cost variations across North America, Europe, Asia, and Australia.
+
 •	Insurance Cost by Year: Trendline showing fluctuations in insurance expenses.
+
 •	Maintenance Cost by Usage Type: Breakdown into Personal, Fleet, and Commercial vehicles.
+
 •	Battery Capacity vs Range vs Battery Health: Performance analysis scatter.
+
 •	CO₂ Saved by Region: Regional contribution toward emission reductions.
+
 •	Resale Value by Vehicle Make: Comparison across Tesla, BMW, Ford, Mercedes, etc.
 
 
@@ -69,6 +75,21 @@ Page 2 – Performance, Energy & Usage Analysis
 
 
 
+
+
+•	KPIs: Avg Energy Consumption per 100km, Avg Acceleration (0–100 km/h), Avg Battery Health, Avg Max Speed, Total CO₂ Saved.
+
+•	Energy Consumption by Vehicle Type: Comparison across Hatchbacks, SUVs, Sedans, and Trucks.
+
+•	Max Speed by Year: Trendline analysis of performance over time.
+
+•	Map (Region & Usage Type): Distribution of EV adoption across regions segmented by usage.
+
+•	Resale Value by Region: Evaluates second-hand EV market potential globally.
+
+•	CO₂ Saved by Usage Type: Environmental benefits by Fleet, Commercial, and Personal usage.
+
+•	Scatter Plot (Speed vs Energy): Tests the hypothesis that faster cars consume more energy.
 
 
 
