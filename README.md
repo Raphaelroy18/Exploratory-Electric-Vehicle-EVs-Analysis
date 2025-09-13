@@ -69,6 +69,9 @@ Page 2 – Performance, Energy & Usage Analysis
 
 
 
+
+
+
 Key Insights
 1.	Maintenance & Insurance Costs:
 o	Asia and Australia recorded the highest maintenance costs, while insurance costs fluctuated year-to-year but showed an upward trend.
@@ -84,5 +87,27 @@ o	Usage type analysis showed all categories (Personal, Fleet, Commercial) contri
 4.	Resale Market:
 o	Brands like Tesla, Ford, and BMW hold the highest resale values.
 o	Regionally, North America and Asia dominate the resale market.
+
+5.	Energy Efficiency & Speed:
+o	Average energy consumption stood at 18.6 kWh per 100 km.
+o	Scatter plots confirmed that faster cars tend to consume slightly more energy, especially SUVs and sports sedans.
+
+
+Recommendations
+1.	Manufacturers should optimize EVs for both speed and efficiency, as faster cars show higher energy consumption.
+   
+2.	Fleet and Commercial operators should invest more in EVs since they balance cost savings and CO₂ reductions.
+   
+3.	Governments and policymakers can incentivize regions with high maintenance costs (e.g., Asia, Australia) to reduce barriers to EV adoption.
+  
+4.	Resale market development (certified pre-owned EVs) should be promoted in Europe and Australia to match North American levels.
+   
+5.	Insurance providers could introduce EV-specific packages to stabilize rising insurance costs.
+
+
+Conclusion
+This analysis demonstrates the value of EV analytics in guiding decisions for manufacturers, governments, and consumers. By leveraging data across regions, brands, and usage types, I highlight opportunities for improving efficiency, affordability, and sustainability in the EV ecosystem.
+The use of Excel (cleaning), SQL (querying), and Power BI (visuals) allowed me to create a holistic, interactive view of the EV industry. The dashboards serve as a practical tool for stakeholders to explore EV adoption trends and make data-driven decisions.
+
 
 
