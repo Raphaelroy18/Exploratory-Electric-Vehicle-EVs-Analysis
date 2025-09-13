@@ -42,9 +42,13 @@ The dataset used in this project was sourced from kaggle [download here](https:/
 **Why Choose This Particular Dataset for this Analysis?**
 
 This dataset was chosen because it provides a holistic view of electric vehicles, combining:
+
 •	Technical aspects (battery, range, charging, speed).
+
 •	Economic factors (maintenance, insurance, charging cost, resale value).
+
 •	Environmental impact (CO₂ savings).
+
 •	Regional & usage diversity (personal, commercial, fleet vehicles across multiple continents).
 
 🛠 **Tools Used**
