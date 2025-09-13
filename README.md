@@ -8,10 +8,15 @@ The global shift toward sustainable transportation has driven widespread adoptio
 **Project Overview**
 
 This project analysis a dataset containing performance, cost, and environmental indicators for electric vehicles, such as:
+
 •	 Battery capacity, health, and driving range
+
 •	 Maintenance and insurance costs
+
 •	 CO₂ savings across regions and usage types
+
 •	 Resale values by brand and region
+
 •	 Performance indicators such as acceleration and max speed
 
 The dataset used in this project was sourced from kaggle [download here](https://www.kaggle.com/datasets/khushikyad001/electric-vehicle-analytics-dataset)
